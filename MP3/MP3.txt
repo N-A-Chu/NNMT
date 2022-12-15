@@ -1,0 +1,63 @@
+ Volume in drive E is DATA
+ Volume Serial Number is 407E-E0C8
+
+ Directory of E:\nmt\ROUND9\MP3
+
+12/15/2022  02:30 PM    <DIR>          .
+12/15/2022  02:19 PM    <DIR>          ..
+12/15/2022  02:23 PM         6,966,251 Anh Đợi Em từ Hai Mươi Năm.mp3
+12/15/2022  02:23 PM         5,029,346 Buồn C Major.mp3
+12/15/2022  02:23 PM         5,405,509 Buồn C Minor.mp3
+12/15/2022  02:23 PM         5,798,820 Buồn Cung Sol.mp3
+12/15/2022  02:23 PM         4,195,099 Buồn Mưa Tháng Năm.mp3
+12/15/2022  02:23 PM         4,630,150 Buổi Sáng 11.mp3
+12/15/2022  02:23 PM         4,273,631 Buổi Sáng Sau Ngày Hôm Qua.mp3
+12/15/2022  02:23 PM         4,226,820 Chỉ Là Mơ Ước Thôi.mp3
+12/15/2022  02:23 PM         3,594,508 Có Những Niềm Vui.mp3
+12/15/2022  02:23 PM         4,990,849 Cõi Ta.mp3
+12/15/2022  02:23 PM         4,916,034 Dẫu Em Chẳng Đợi Chờ Anh.mp3
+12/15/2022  02:23 PM         3,482,434 Hai Chiếc Lá Vàng.mp3
+12/15/2022  02:23 PM         4,728,256 Hạnh Phúc.mp3
+12/15/2022  02:23 PM         4,288,260 Khoảng Đời Còn Lại.mp3
+12/15/2022  02:23 PM         3,655,514 Không Có Em.mp3
+12/15/2022  02:23 PM         4,696,188 Lỡ Thời Gian Đứng Im.mp3
+12/15/2022  02:30 PM                 0 MP3
+12/15/2022  02:23 PM         6,019,288 Mùa Xuân Rượu và Tóc Dài.mp3
+12/15/2022  02:23 PM         5,542,616 Mỏi Mong.mp3
+12/15/2022  02:23 PM         3,738,226 Một Buối Sáng Ở Vườn Sau.mp3
+12/15/2022  02:23 PM         6,775,953 Một Chút Jazz Vào Giọng Hát Em.mp3
+12/15/2022  02:23 PM         4,768,495 Một Cõi Lưng Chừng.mp3
+12/15/2022  02:23 PM         4,200,070 Một Mình.mp3
+12/15/2022  02:23 PM         5,665,898 Một Thời Đã Qua.mp3
+12/15/2022  02:23 PM         5,537,958 Nghịch Âm Buồn.mp3
+12/15/2022  02:23 PM         4,159,528 Ngày Xưa Một Chuyện Tình.mp3
+12/15/2022  02:23 PM         3,744,615 Ngồi Starbucks Nghĩ Về Em.mp3
+12/15/2022  02:23 PM         4,577,070 Nhật Thực.mp3
+12/15/2022  02:23 PM         4,228,074 Nhớ Hồ Cầm.mp3
+12/15/2022  02:23 PM         3,991,091 Nếu Anh Chỉ Có Một Điều Này.mp3
+12/15/2022  02:23 PM         4,873,821 Phía Bên Ngoài Khung Cửa.mp3
+12/15/2022  02:23 PM         5,256,178 Phố Lạ.mp3
+12/15/2022  02:23 PM         5,245,386 Quên Lãng.mp3
+12/15/2022  02:23 PM         3,796,851 Rồi Lúc Già Nua.mp3
+12/15/2022  02:23 PM         4,546,603 Rủ Em Lên Núi.mp3
+12/15/2022  02:23 PM         6,070,020 Sàigòn Những Ngày Tháng Cũ.mp3
+12/15/2022  02:23 PM         3,815,659 Ta Gói Lại Ta.mp3
+12/15/2022  02:23 PM         4,064,652 Tango Điên.mp3
+12/15/2022  02:23 PM         4,183,819 Tiếng Ca Dâng Hiến.mp3
+12/15/2022  02:23 PM         3,741,614 Trang Nghiêm.mp3
+12/15/2022  02:23 PM         5,743,176 Trương Quỳnh Như.mp3
+12/15/2022  02:23 PM         3,607,822 Tua Vao Vai Anh.mp3
+12/15/2022  02:23 PM         3,717,746 Tuyết Rơi.mp3
+12/15/2022  02:23 PM         3,926,001 Tưởng Tượng.mp3
+12/15/2022  02:23 PM         4,052,113 Uống Rượu.mp3
+12/15/2022  02:23 PM         5,639,979 Vương Vấn.mp3
+12/15/2022  02:23 PM         5,599,398 Vẫn Mong Thu Về Suốt Năm.mp3
+12/15/2022  02:23 PM         3,921,292 Xưa Anh Đến Thăm Em.mp3
+12/15/2022  02:23 PM         3,658,813 Đi Thật Xa.mp3
+12/15/2022  02:23 PM         4,755,956 Đêm Huyền Cầm.mp3
+12/15/2022  02:23 PM         4,234,528 Đêm Tango 1.mp3
+12/15/2022  02:23 PM         3,571,042 Đêm Tango 2.mp3
+12/15/2022  02:23 PM         3,872,808 Đêm Tango 3.mp3
+12/15/2022  02:23 PM         4,677,491 Ở Một Nơi Nào Một Lúc Nào.mp3
+              54 File(s)    244,399,319 bytes
+               2 Dir(s)  64,725,319,680 bytes free
